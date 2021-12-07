@@ -27,3 +27,15 @@ tbody td  {
   padding: 18px;
 }
 
+tbody tr:nth-child(odd){
+  background-color:#eeeeee;
+}
+
+tbody tr:nth-child(even){
+  background-color:#ffcccc;
+}
+
+ tbody tr:hover{
+  background-color:#ffffcc;
+} 
+
